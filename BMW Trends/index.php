@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BMW Trends</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body style="text-align: center;">
+	<div class="wrapper">
+		<div class="section-1">
+			<h1>Download Content</h1>
+			<!--<a href="img/bg1.jpg" download  style="color: #000;"><i class='fa fa-folder'> BMW Trends 30/3/2022</i></a>-->
+			<a href="folder/29.php" style="color: #000;"><i class='fa fa-folder' style=" margin: 10px;"> BMW Trends 29/3/2022</i></a>
+			<!--<a href="folder/30.php" style="color: #000;"><i class='fa fa-folder' style=" margin: 10px;"> BMW Trends 30/3/2022</i></a>-->
+
+			<br>
+
+
+		</div>
+	</div>
+</body>
+</html>

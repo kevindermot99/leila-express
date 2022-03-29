@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BMW Trends</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body style="text-align: center;">
+	<div class="wrapper">
+		<div class="section-1">
+
+			<h1> <a href="../index.php">
+				<i class="fa fa-arrow-left" style="color: #000; margin-right: 15px;"></i></a> BMW Trends 29/3/2022
+			</h1>
+				<a href="../videos/03291.mp4" download  style="color: #000;">
+					<i class='fa fa-video-camera' style=" margin: 10px;"> video 1</i>
+				</a><br>
+
+				<a href="../videos/03292.mp4" download  style="color: #000;">
+					<i class='fa fa-video-camera' style=" margin: 10px;"> video 2</i>
+				</a><br>
+
+				<a href="../videos/03293.mp4" download  style="color: #000;">
+					<i class='fa fa-video-camera' style=" margin: 10px;"> video 3</i>
+				</a><br>
+
+				<a href="../videos/03294.mp4" download  style="color: #000;">
+					<i class='fa fa-video-camera' style=" margin: 10px;"> video 4</i>
+				</a><br>
+
+				<a href="../videos/03295.mp4" download  style="color: #000;">
+					<i class='fa fa-video-camera' style=" margin: 10px;"> video 5</i>
+				</a>
+
+		</div>
+	</div>
+</body>
+</html>
